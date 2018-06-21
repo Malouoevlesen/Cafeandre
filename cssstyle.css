@@ -1,0 +1,139 @@
+h1 {
+  text-align: center;
+  color: #000000;
+  line-height: 60px;
+  font-size: 60px;
+  font-weight: 200;
+  font-family: 'Raleway', sans-serif;
+  text-transform: uppercase;
+  margin-top: 0.67em;
+  margin-bottom: 0.67em;
+}
+
+h4 {
+  text-align: center;
+  color: #696969;
+  line-height: 20px;
+  font-size: 20px;
+  font-style: bold;
+  font-family: 'Raleway', sans-serif;
+  margin-top: 1.33em;
+  margin-bottom: 1.33em;
+}
+
+.linebreak {
+  text-align: center;
+  background-color: #FDF5E6;
+  overflow: hidden;
+  line-height: 15px;
+  font-size: 15px;
+  font-family: 'Raleway', sans-serif;
+  height: 20px;
+  width: 100%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.topnav {
+  text-align: center;
+}
+.topnav a {
+  color: #696969;
+  line-height: 15px;
+  font-size: 15px;
+  font-family: 'Raleway', sans-serif;
+  margin-top: 40px;
+}
+
+.content {
+  width: 70%;
+  margin: auto;
+}
+
+.welcome {
+  text-align: center;
+  color: #696969;
+  line-height: 20px;
+  font-size: 20px;
+  font-style: bold;
+  font-family: 'Raleway', sans-serif;
+  margin-top: 1.33em;
+  margin-bottom: 1.33em;
+}
+
+.profile {
+  border-radius: 4.1em;
+  width: 100%;
+}
+
+p {
+  text-align: center;
+  color: #696969;
+  line-height: 10px;
+  font-size: 10px;
+  font-family: 'Raleway', sans-serif;
+}
+
+.footer {
+  padding-top: 2.75em;
+
+}
+
+.contact-info {
+  margin-left: 15em;
+  margin-top: 3.75em;
+  list-style-type: none;
+}
+
+.contact-info li {
+  margin-top: 20px;
+  color: #696969;
+  font-size: 1.2em;
+ }
+
+.round {
+  color: #696969;
+  border-radius: 4.1em;
+  background-color: #FDF5E6;
+}
+
+.clear {
+  clear: both;
+}
+
+img.contact {
+  width: 90%;
+  border-radius: 4.1em;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin: auto;
+  display: block;
+}
+
+.fab {
+    color: #696969;
+}
+
+.about {
+  color: #696969;
+  line-height: 20px;
+  font-size: 20px;
+  font-style: bold;
+  font-family: 'Raleway', sans-serif;
+  margin-top: 1.33em;
+  margin-bottom: 1.33em;
+}
+
+img.coffee {
+  width: 20%;
+  border-radius: 4.1em;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin: auto;
+  display: block;
+}
+
+.thumbnail {
+  width: 400px;
+  height: 600px;
+}
